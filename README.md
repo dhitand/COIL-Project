@@ -1,5 +1,5 @@
 # **Coil Project Colab Files**
 
-- COIL Project Foreign Exchange USD/JPY
-- COIL Teams Activity 2
-- COIL Teams Activity 3
+- COIL Project Group 3 Foreign Exchange USD/JPY
+- COIL MSTeams Activity 2
+- COIL MSTeams Activity 3
